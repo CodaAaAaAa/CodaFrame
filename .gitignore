@@ -1,0 +1,5 @@
+Unity/UnityGameFrame/Library/
+Unity/UnityGameFrame/Temp/
+Unity/UnityGameFrame/.vs/
+*.csproj
+*.sln
